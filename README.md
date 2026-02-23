@@ -1,5 +1,7 @@
 # Input Files for "Applying Saturation-Based Theorem Proving to Open Problems in Positive Implicational Logic"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18747868.svg)](https://doi.org/10.5281/zenodo.18747868)
+
 This repository contains the TPTP input files accompanying the paper:
 
 > Ulrich, D. and Fitelson, B. "Applying Saturation-Based Theorem Proving to Open Problems in Positive Implicational Logic." *Journal of Automated Reasoning*.
